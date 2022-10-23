@@ -1,7 +1,10 @@
-## Olá!! Eu sou a Lara Gama
+## Hi!! I'm Lara Gama
 
-- 🖥️ Estudante de Engenharia de Computação no CEFET-MG Campus Nova Gameleira
-- 📒 Linguagens: Java, C, C++
+- 🖥️ I study <b> Computer Engineering </b> at <b> CEFET-MG, </b> Belo Horizonte
+- 👩‍💻 I compete in <b> programming marathons </b>
+- 🚗 I'm developping an <b>autonomous car model</b> as a member of <b>Trincabotz,</b> (CEFET-MG robotics team)
+- 📒 Programming languages: <b>Java, C, C++</b>
+- 📧 Email: laragamasantos@gmail.com
 
 <div align="left">
   <a href="https://github.com/laragamasantos">
