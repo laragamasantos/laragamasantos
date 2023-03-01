@@ -2,7 +2,6 @@
 
 - 🖥️ I study <b> Computer Engineering </b> at <b> CEFET-MG, </b> Belo Horizonte
 - 👩‍💻 I compete in <b> programming marathons </b>
-- 🚗 I'm developping an <b>autonomous car model</b> as a member of <b>Trincabotz,</b> (CEFET-MG robotics team)
 - 📒 Programming languages: <b>Java, C, C++</b>
 - 📧 Email: laragamasantos@gmail.com
 
