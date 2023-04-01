@@ -2,7 +2,7 @@
 
 - 🖥️ I study <b> Computer Engineering </b> at <b> CEFET-MG, </b> Belo Horizonte
 - 👩‍💻 I compete in <b> programming marathons </b>
-- 📒 Programming languages: <b>Java, C, C++</b>
+- 📒 Programming languages: <b>C/C++, Java, JavaScript, Python</b>
 - 📧 Email: laragamasantos@gmail.com
 
 <div align="left">
